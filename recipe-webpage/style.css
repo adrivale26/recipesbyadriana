@@ -1,0 +1,38 @@
+img {
+	max-width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+	
+}
+
+body {
+	background-color: #EADDCA;
+	
+}
+
+.social-media {
+	display: flex;
+	justify-content: center;
+	
+	
+	
+}
+
+h2 {
+	text-align: center;
+	
+	
+}
+
+header p {
+	text-align: center;
+	
+}
+
+nav a {
+	text-decoration: none;
+	color: brown;
+	text-align: center;
+}
